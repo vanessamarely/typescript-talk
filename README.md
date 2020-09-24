@@ -10,5 +10,6 @@ En las carpetas encontrarás:
 * Tipos, ejemplos de tipos de datos
 * caracteristicas, ejemplos de las caracteristicas de TS
 
-Slides: [typescript](https://github.com/vanessamarely/typescript-talk/repo/blob/master/slides/TypescriptTalk.pdf)
+Slides: [typescript](https://github.com/vanessamarely/typescript-talk/blob/master/slides/TypescriptTalk.pdf)
+
 @autora: @vanessamarely
