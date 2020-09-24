@@ -1,4 +1,4 @@
-#TYPESCRIPT
+# TYPESCRIPT
 
 En este repositorio tendremos el código que se mostrara en los slides del Webinar de Typescript
 
